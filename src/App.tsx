@@ -115,13 +115,13 @@ function App() {
               Connect, Share, and Engage with your community
             </p>
             <div className="flex space-x-6 mt-4">
-              <a href="#" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
+              <a href="https://www.instagram.com/moibaldenegro_/" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
                 <Twitter size={24} />
               </a>
-              <a href="#" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
+              <a href="https://github.com/MoiBaldenegro" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
                 <Github size={24} />
               </a>
-              <a href="#" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
+              <a href="https://github.com/MoiBaldenegro" className={`${isDarkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors duration-200`}>
                 <Linkedin size={24} />
               </a>
             </div>
